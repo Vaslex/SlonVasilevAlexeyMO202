@@ -1,3 +1,4 @@
+package com.oop.slon;
 import java.util.Scanner;
 
 public class Main {

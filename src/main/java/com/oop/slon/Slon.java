@@ -1,3 +1,4 @@
+package com.oop.slon;
 public class Slon {
  static final String cmd_help = "\\help";
  static final String cmd_exit = "\\exit";
